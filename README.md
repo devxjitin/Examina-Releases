@@ -15,8 +15,7 @@ private repository.
 ## Download
 
 Grab the latest build from **[Releases](https://github.com/devxjitin/Examina-Releases/releases/latest)** --
-`Examina.exe` (the app) and `Examina-codesign.cer` (its certificate, needed
-to verify the signed build).
+`Examina.exe` (the app).
 
 ## Versions
 
